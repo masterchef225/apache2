@@ -32,4 +32,4 @@ jobs:
      - name: Kubectl
        run: kubectl --help
      - name: Helm
-       run: kubectl --help
+       run: helm --help
